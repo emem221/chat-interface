@@ -1,0 +1,1 @@
+document.getElementById('message').setAttribute('new message');
